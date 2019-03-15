@@ -1,3 +1,20 @@
+//Copyright (c) 2019, The go-ethereum Authors. All rights reserved.
+// This file is part of the firefly library.
+//
+//Redistribution and use in source and binary forms, with or without
+//modification, are permitted provided that the following conditions are met:
+//* Redistributions of source code must retain the above copyright
+//notice, this list of conditions and the following disclaimer.
+//* Redistributions in binary form must reproduce the above copyright
+//notice, this list of conditions and the following disclaimer in the
+//documentation and/or other materials provided with the distribution.
+//* Neither the name of The go-ethereum Authors nor the
+//names of its contributors may be used to endorse or promote products
+//derived from this software without specific prior written permission.
+//
+// Package types contains data types related to Ethereum 2.0 consensus.
+// See https://github.com/ethereum/eth2.0-specs/blob/dev/specs/core/0_beacon-chain.md//data-structures
+
 package types
 
 const (
